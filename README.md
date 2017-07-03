@@ -13,8 +13,8 @@ Just a test thingo
 ## Quick Start
 
 - Clone the repository: `git clone https://github.com/jamesjenner/rn.git`
-- Install client dependancies via [Bower](http://bower.io): `bower install rn`
-- Install server via [NPM](http://www.npmjs.org/): `npm install rn`
+- _not implemented:_ Install client dependancies via [Bower](http://bower.io): `bower install rn`
+- _not implemented:_ Install server via [NPM](http://www.npmjs.org/): `npm install rn`
 
 ## Usage
 
@@ -36,11 +36,7 @@ Undecided.
 ## Notes
 
 * Nothing to see here, move along
-* Communications is not secure by default
-* The client will connect to the local host by default, using port 9007
-* A user will be created automatically
-* All methods that start with underscore are subject to change
-* server.DEFAULT_PROTOCOL defines the default protocol for the client, the server is currently hardcoded inline
+
 
 ## To Do
 
