@@ -1,4 +1,4 @@
-##RN version 0.1
+## RN version 0.1
 Just a test thingo
 
 * Do this
@@ -6,25 +6,25 @@ Just a test thingo
 * Umm...
 
 
-##Features
+## Features
 
 * none
 
-##Quick Start
+## Quick Start
 
 - Clone the repository: `git clone https://github.com/jamesjenner/rn.git`
 - Install client dependancies via [Bower](http://bower.io): `bower install rn`
 - Install server via [NPM](http://www.npmjs.org/): `npm install rn`
 
-##Usage
+## Usage
 
 Undecided.
 
-##Key Components
+## Key Components
 
 * none - there is nothing here
 
-##Dependancies
+## Dependancies
 
 <!--
 * opt `npm install opt`
@@ -33,7 +33,7 @@ Undecided.
 * bcrypt/bcryptjs, use bcryptjs on windows `npm install bcryptjs`, bcrypt on linux `npm install bcrypt`
 -->
 
-##Notes
+## Notes
 
 * Nothing to see here, move along
 * Communications is not secure by default
@@ -42,11 +42,11 @@ Undecided.
 * All methods that start with underscore are subject to change
 * server.DEFAULT_PROTOCOL defines the default protocol for the client, the server is currently hardcoded inline
 
-##To Do
+## To Do
 
 * Create something
 
-##License (MIT)
+## License (MIT)
 
 Copyright (c) 2017 James Jenner
 
